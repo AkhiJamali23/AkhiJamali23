@@ -1,6 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/56923998?v=4">
-### Hi  I am Akhtar Ali 👋
-###🔭 I’m currently working on Unity Game Engine
+<img src="https://avatars.githubusercontent.com/u/56923998?v=4">### Hi  I am Akhtar Ali 👋###🔭 I’m currently working on Unity Game Engine
 
 
 Here are some ideas to get you started:
